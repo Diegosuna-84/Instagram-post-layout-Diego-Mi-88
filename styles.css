@@ -43,6 +43,7 @@ img {
 p1 {
     font-family: Arial, sans-serif;
     font-size: smaller;
+    font-style: italic;
 }
 .post-description {
     margin: 10px;
